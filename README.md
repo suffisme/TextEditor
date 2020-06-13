@@ -16,8 +16,8 @@
 
 ### Screenshots
 - Main Screen
-- ![](Screenshots/homepage.png)
+![](Screenshots/homepage.png)
 - Opening File 
-- ![](Screenshots/Open.png)
+![](Screenshots/Open.png)
 - Viewing File
-- ![](Screenshots/open_example.png)
+![](Screenshots/open_example.png)
